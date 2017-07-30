@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Merchant</string>
+    <string name="app_alarm">(*)Chưa nhập số tiền</string>
+    <string name="app_null"></string>
+</resources>
